@@ -17,7 +17,7 @@ int setArray(int* array, int length){
         }
 
 }
-/*
+
 int main(int argc, const char* argv[]) {
     int length;
     printf("Введите длину массива:  ");
@@ -34,4 +34,4 @@ int main(int argc, const char* argv[]) {
     }
     return 0;
 }
- */
+ 
